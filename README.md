@@ -1,2 +1,2 @@
-# -wiczenia-z-html-a
+cwiczenia-html
 Ćwiczenia z html'a
